@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Seyun Lee (yatapboy)</title>
+ <title>Yenarue's Log</title>
  <link href="http://leeseyun.github.io/atom.xml" rel="self"/>
  <link href="http://leeseyun.github.io/"/>
- <updated>2023-12-19T18:10:45+09:00</updated>
+ <updated>2023-12-19T18:13:04+09:00</updated>
  <id>http://leeseyun.github.io</id>
  <author>
-   <name>SeyunLee</name>
+   <name>Yenarue</name>
    <email></email>
  </author>
 
